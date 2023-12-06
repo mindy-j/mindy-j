@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hello World👋
+### I'm minji😄 from Republic of Korea.
+### you can call me Mindy, as you can see from my nickname!
+### I'm a new developer, but I'm growing little by little. Please keep an eye on🌱
 
 <!--
 **mindy-j/mindy-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
